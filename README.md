@@ -1,4 +1,4 @@
-# Matrix_Tools ![License](https://img.shields.io/github/license/Anthony-Hackman/Matrix_Tools)
+# Matrix_Tools ![License](https://img.shields.io/github/license/Anthony-Hackman/Matrix_Tools) https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11-blue
 [![Python package](https://github.com/Anthony-Hackman/Matrix_Tools/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/Anthony-Hackman/Matrix_Tools/actions/workflows/python-package.yml)
 
 
