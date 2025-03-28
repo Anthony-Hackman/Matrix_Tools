@@ -1,4 +1,9 @@
+# requirements.txt
+
+# Runtime
 numpy
 sympy
+
+# Development
 pytest
 flake8
