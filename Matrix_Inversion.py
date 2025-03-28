@@ -39,6 +39,3 @@ def main():
 
     print("\nSolution Vector x:")
     sp.pprint(x)
-
-if __name__ == \"__main__\":
-    main()
