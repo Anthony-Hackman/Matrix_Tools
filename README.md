@@ -1,4 +1,4 @@
-# Matrix_Tools
+# Matrix_Tools [![Python package](https://github.com/Anthony-Hackman/Matrix_Tools/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/Anthony-Hackman/Matrix_Tools/actions/workflows/python-package.yml)
 
 **Matrix_Tools** is a collection of Python scripts designed to perform foundational matrix operations with applications in linear algebra, numerical methods, and algorithmic problem-solving. This repository demonstrates both numerical and symbolic computation by leveraging the power of `numpy` and `sympy`.
 
