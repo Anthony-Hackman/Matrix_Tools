@@ -15,7 +15,7 @@
 
 | File                        | Description                                                                    |
 |-----------------------------|--------------------------------------------------------------------------------|
-| `linear_algebra_toolkit.py` | Interactive CLI tool for computing determinants, inverses, cofactors, etc.     |
+| `linear_algebra_toolkit.py` | Main() Interactive CLI tool for computing determinants, inverses, cofactors, etc.|
 | `Matrix_Inversion.py`       | Solves linear systems using the matrix inversion method.                       |
 | `LU_Decomposition.py`       | Performs LU decomposition and computes the inverse via L⁻¹·U⁻¹.                 |
 | `Elementary_Matrix.py`      | Demonstrates row operations using elementary matrices.                         |
