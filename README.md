@@ -28,11 +28,15 @@
 
 ## Requirements
 
-- Python 3.7 or higher
-- [`numpy`](https://numpy.org/)
-- [`sympy`](https://www.sympy.org/)
+### Runtime
 
-Install the required packages with:
+To run the matrix tools:
+
+- Python 3.7 or higher
+- numpy
+- sympy
+
+Install with:
 
 ```bash
 pip install numpy sympy
